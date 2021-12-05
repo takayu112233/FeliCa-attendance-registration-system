@@ -19,6 +19,10 @@ Windows搭載パソコンやタブレットとMySQLサーバに加え，PaSoRi�
 
 ![DB構築](Readme_img/DB_Setup.png)  
 
+作成されるDBの構成は以下のようになっております．
+
+![DB構築](Readme_img/DB.png)  
+
 ## DB_INFO
 フォルダDB_INFOにはデータベース管理画面が含まれています．
 学生情報入力取り込み，入場履歴ファイル出力，入場履歴のリアルタイム表示を行います．
